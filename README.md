@@ -34,33 +34,33 @@
 - https://exercism.io/tracks (Exercise for programming skills)
 - https://freecodecamp.org
 
-#Programming
-##Programming Challenge Site
-##Delphi Tutorial
+# Programming
+## Programming Challenge Site
+## Delphi Tutorial
 - http://www.hidelphi.com/
-##Coding Tutorial
+## Coding Tutorial
 - tutorialspoint.com
 - happycodings.com
 - joplingapp.org
 - thebestschools.com
 
-#Design
-##Photoshop Tutorial
+# Design
+## Photoshop Tutorial
 
-#Problem Solving
-##Helper
-##Online Contest
+# Problem Solving
+## Helper
+## Online Contest
 - TopCoder:
 - Hackerrank:
 - Hackerearth: https://www.hackerearth.com/
 
-#Hacking
-##Hacking Tutorial
+# Hacking
+## Hacking Tutorial
 - hacking-tutorial.com
 - hackernoon.com
 
-#Arduino
-##Arduino Tutorial
+# Arduino
+## Arduino Tutorial
 - initialboard.com
 
 
