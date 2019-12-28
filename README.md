@@ -67,6 +67,10 @@
 <a href="#top">Back to top</a>
 
 # Design
+## Web Design
+### Bootstrap Template
+- https://bootsnipp.com/
+- https://getbootstrap.com/
 ## Photoshop Tutorial
 
 <a href="#top">Back to top</a>
@@ -92,5 +96,9 @@
 - initialboard.com
 
 <a href="#top">Back to top</a>
+
+# Browser Plugins
+- SingleFile 
+- TamperMonkey = grab video for youtube subtitle
 
 # End
